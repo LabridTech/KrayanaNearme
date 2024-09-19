@@ -32,7 +32,7 @@
 
 ## Technologies Used
 
-- **Front end ** html,css,vanila js
+- **Front end** html,css,vanila js
 - **Back end** Node js
 - **Google Maps API** for real-time location tracking and interactive maps
 - **Firebase** for user authentication and database
